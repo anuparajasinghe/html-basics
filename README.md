@@ -1,6 +1,7 @@
 # HTML Basics
 A dead simple starter kit for people getting started in html, You will be able to create a simple website after you master the required basics given below.
 Code coming soon
+
 ---
 
 ### The most critical parts
@@ -43,4 +44,4 @@ Code coming soon
 Once you master these you can straight away jump into a framework like React to start building creative and efficent websites.
 You can also use UI frameworks like Chakra, Ant Design to speed up the building process.
 
-Information from : https://www.w3schools.com/tags/ref_byfunc.asp
+Information source : https://www.w3schools.com/tags/ref_byfunc.asp
