@@ -20,7 +20,7 @@ A dead simple starter kit for people getting started in html, You will be able t
 ### Unsupported Tags in HTML5
  Be aware when using tags in HTML5 since these tags are not supported anymore
 
- - <acronym> - Not supported in HTML5. Use <abbr> instead.
+ - `<acronym>` - Not supported in HTML5. Use `<abbr>` instead.
  - <big> -	Not supported in HTML5. Use CSS instead.
  - <center> - Not supported in HTML5. Use CSS instead.
  - <font> - Not supported in HTML5. Use CSS instead.
