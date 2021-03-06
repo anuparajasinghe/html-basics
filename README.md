@@ -1,6 +1,6 @@
 # HTML Basics
 A dead simple starter kit for people getting started in html, You will be able to create a simple website after you master the required basics given below.
-
+Code coming soon
 ---
 
 ### The most critical parts
